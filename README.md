@@ -8,21 +8,42 @@ The integration of a chatbot within a healthcare system, aimed at streamlining m
 
 ## Features:
 (01) Implements advanced neural network methods for natural language understanding.
+
+
 (02) Deployable via a framework-based application for scalability.
+
+
 (03) High accuracy and low response time.
+
+
 (04) Responses are based on structured medical data and health guidelines.
+
+
 (05) Utilizes JSON data format for medical records and query responses.
 
 ## Requirements:
 (01) Operating System: 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
+
+
 (02) Development Environment: Python 3.6 or later is necessary for coding the medical chatbot system.
+
+
 (03) Deep Learning Frameworks: TensorFlow for model training, HuggingFace for embeddings.
+
+
 (04) NLP Libraries: LangChain and transformers for advanced conversational capabilities.
+
+
 (05) Version Control: Git for collaborative development and effective code management.
+
+
 (06) IDE: VS Code for coding, debugging, and version control integration.
+
+
 (07) Additional Dependencies: scikit-learn, FAISS for vector storage, Fastapi for deployment.
 
 ## System Architecture: 
+![image](https://github.com/user-attachments/assets/7b1a1f6e-f5fc-4535-a700-7b956412156a)
 
 ## Output
 ### Output 1:
